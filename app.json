@@ -13,8 +13,5 @@
     },
     "DEPLOY_PLATFORM": "heroku"
   },
-  "addons": [
-    "mongolab",
-    "logentries"
-  ]
+  
 }
